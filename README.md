@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @lukBB
-- 👀 I’m interested in frontend technologies (Angular / React) and blockchain.
-- 🌱 I’m currently learning Angular and Solidity
-- 💞️ I’m looking to collaborate on blockchain projects
-- 📫 
+- 👋 Hi, I’m Lukasz, self made developer.
+- 👀 I’m learning Nextjs 14 and React and upskilling Nodejs
+- 🌱 Next thing to master is Solidity
 
 <!---
 lukBB/lukBB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
