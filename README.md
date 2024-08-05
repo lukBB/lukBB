@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lukasz, self made developer.
 - 👀 I’m learning Nextjs 14 and React and upskilling Nodejs
-- 🌱 Next thing to master is Solidity
+- 🌱 Next thing to master is Solidity and GO
 
 <!---
 lukBB/lukBB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
