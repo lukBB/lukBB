@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lukasz, self made developer.
-- 👀 I’m learning Nextjs 14 and React and upskilling Nodejs
+- 👀 I’m learning Nextjs and React and upskilling Nodejs
 - 🌱 Next thing to master is Solidity and GO
 
 <!---
